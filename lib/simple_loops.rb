@@ -18,5 +18,3 @@ end
 def return_string_array
   
 end
-
-loop_message_five_times("hello world")
