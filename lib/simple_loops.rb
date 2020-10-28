@@ -1,6 +1,6 @@
 def loop_message_five_times(string)
   counter = 0
-  string = "hello world"
+  
   while counter < 5 do
     puts string
     counter += 1
@@ -19,4 +19,4 @@ def return_string_array
   
 end
 
-loop_message_five_times()
+loop_message_five_times("hello world")
