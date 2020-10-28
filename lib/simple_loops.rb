@@ -23,6 +23,7 @@ def loop_message_n_times(string, counter)
   counter.times do
     puts string
   end
+end
   
 def output_array(array)
   counter = 0
